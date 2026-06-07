@@ -61,13 +61,11 @@ A lightweight, terminal-based task management application built entirely in Pyth
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
+  <a href="www.linkedin.com/in/okata-emmanuel-739949383" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_TRYHACKME_URL_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-  </a>
-  <a href="YOUR_HACKTHEBOX_URL_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox" />
+
+  <a href="https://x.com/Emerson00000011" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-111927?style=for-the-badge&logo=Twitter&logoColor=black" alt="Twitter" />
   </a>
 </p>
